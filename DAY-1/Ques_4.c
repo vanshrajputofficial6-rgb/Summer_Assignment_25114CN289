@@ -10,6 +10,6 @@ int main(){
         n=n/10;
         c++;
     }
-    printf("count:%d",c);
+    printf("no. of digits:%d",c);
     return 0;
 }
