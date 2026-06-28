@@ -17,7 +17,7 @@ class Employee{
 
 
     public String getname(){return name;} 
-    public void setname(String name){this.name = name;;}
+    public void setname(String name){this.name = name;}
 
     public String getRole(){return Role;} 
     public void setRole(String Role){this.Role = Role;}
